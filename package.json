@@ -1,13 +1,13 @@
 {
   "name": "yt-down",
   "version": "1.0.0",
-  "description": "Simple website YouTube Downloader, by Miftah.",
+  "description": "Simple website YouTube Download"
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "Miftah GanzZ",
+  "author": "Kaizell",
   "license": "ISC",
   "dependencies": {
     "@danicoding/scraper": "^1.0.1",
